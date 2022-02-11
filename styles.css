@@ -1,0 +1,22 @@
+#shape{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: left;
+    display: none;
+    position: relative
+}
+
+#headText{
+    background-color: aqua;
+    font-family: sans-serif;
+    font-weight:bold;
+    color: red;
+}
+
+h3{
+    background-color: chartreuse;
+    font-style: italic;
+    font-weight: bolder;
+    color: darkblue
+}
