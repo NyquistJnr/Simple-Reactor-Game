@@ -35,8 +35,13 @@
 		}
 
 	</style>
+ 
 </head>
 <body>
+    
+    
+    <p id="uni">This text is changeable</p>
+    <button id="uniButton">click to Change</button>
 
 	<div id="topside">
 
@@ -55,6 +60,13 @@
 			<source src="../Anime/AOT/Season 1/AnimePahe_Shingeki_no_Kyojin_-_01_BD_720p_ABi.mp4" type="video/mp4">
 		</video>
 	</div>
+    <script type="text/javascript">
+        
+        document.getElementById("uniButton").onclick = function(){
+            document.getElementById("uni").innerHTML = "The Text Finally Changed"
+        }
+        
+    </script>
 
 </body>
 </html>
