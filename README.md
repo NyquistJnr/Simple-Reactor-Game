@@ -1,2 +1,2 @@
 # Simple-Reactor-Game
-# Simple Game using HTML CSS and JavaScript
+Simple Game using HTML CSS and JavaScript
